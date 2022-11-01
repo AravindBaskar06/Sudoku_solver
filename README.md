@@ -1,2 +1,2 @@
 # Sudoku_solver
-This notebook solves Sudoku as an integer linear programming problem using IPOPT.
+This notebook solves the popular puzzle Sudoku as an integer linear programming problem using IPOPT.
